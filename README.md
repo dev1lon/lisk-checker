@@ -1,11 +1,11 @@
 Чекер на https://lisk.com/eligibility-checker/
 
 ```
-git clone https://github.com/dev1lon/lisk checker
+git clone https://github.com/dev1lon/lisk-checker
 ```
 
 ```
-cd lisk checker
+cd lisk-checker
 ```
 
 ```
