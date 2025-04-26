@@ -1,5 +1,4 @@
 import asyncio
-from email.headerregistry import ContentTypeHeader
 
 import aiohttp
 from aiohttp import ContentTypeError
